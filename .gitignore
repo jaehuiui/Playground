@@ -1,1 +1,10 @@
 .idea
+
+## Packages
+node_modules
+yarn.lock
+
+## Logging
+yarn-error.log
+
+
